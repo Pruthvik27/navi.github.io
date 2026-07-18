@@ -1,1 +1,8 @@
+title: NAVI | EEE Portfolio
+description: Electrical & Electronics Engineer Portfolio and Blog
+url: "https://navi.github.io"
 
+# Enable Jekyll features
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
