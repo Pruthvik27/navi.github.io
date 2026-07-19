@@ -102,7 +102,7 @@ After waiting in anticipation for a whole week...
 
 **I got this**
 
-<img src="/assets/images/Key Iteration - 1.jpeg" alt="My first keycap Result"> width="300" height="300"
+<img src="/assets/images/Key Iteration - 1.jpeg" alt="My first keycap Result"  width="300" height="300">
 
 I already know exactly what you are *thinking right now* after looking at that disaster.
 
@@ -118,7 +118,7 @@ Then, this is what came out...
 *AGAINNNNNNNNN....*
 
 
-<img src="/assets/images/Key iteration - 2.jpeg" alt="My second keycap Result"> width="300" height="300"
+<img src="/assets/images/Key iteration - 2.jpeg" alt="My second keycap Result" width="300" height="300">
 
 I know what you are thinking again. It was almost perfect, but an accidental dip on the top surface ruined the entire aesthetic. Even worse, the keycap was way too short, making it wobble uncontrollably with zero stability while trying to type.
 
@@ -133,7 +133,7 @@ I redesigned the prototype from scratch. It looked something like this:
 
 With the design finalized, I crossed my fingers tightly, double-checking everything to see if I had missed any hidden flaws. After waiting another long week, I finally got the final print:
 
-<img src="/assets/images/key iteration - 3.jpeg" alt="My third keycap Result"> width="300" height="300"
+<img src="/assets/images/key iteration - 3.jpeg" alt="My third keycap Result" width="300" height="300" >
 
 The result was incredibly satisfying! It perfectly fixed all of my previous design mistakes. Just like that, the longest and most frustrating phase of the project, which dragged on for a whole month, finally came to an end.
 
