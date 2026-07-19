@@ -122,7 +122,7 @@ Then, this is what came out...
 
 I know what you are thinking again. It was almost perfect, but an accidental dip on the top surface ruined the entire aesthetic. Even worse, the keycap was way too short, making it wobble uncontrollably with zero stability while trying to type.
 
-### So instead of Again burning my team budget. 
+## So instead of Again burning my team budget. 
 **I went to design the new keys**
 
 I was on high alert during this third design phase because I absolutely refused to waste my teammates' hard-earned money a third time. For once in my lifetime, I stopped taking things for granted and got completely serious about the engineering details.
@@ -151,7 +151,7 @@ Since I couldn't physically fit 80 different labels onto a tiny pocket-sized key
 
 With the plan set, I immediately contacted my Software Lead—a guy who possesses world-class expertise in *VIBE CODING* (writing code purely by gut feeling and chaotic energy). And just like that, 
 
-### Stage 3 : Making our first .exe file for our Keyboard.
+## Stage 3 : Making our first .exe file for our Keyboard.
 
 The main problem here wasn't making the .exe file — it was *communicating with AI*. I'm still not sure how my teammate convinced himself he was good at talking to AI, because every time he tried explaining the problem he was facing, it came out as a jumble with no real structure. So I'd just nod, dig into the app myself, and tell him what corrections to make. Once that clicked, he had a clear idea of how to build the .exe, but he told me it was tricky since it needed multiple languages — frontend, backend, and more.
 
@@ -166,7 +166,7 @@ That *crazy guy* picked a cat image as the icon.
 
 So our job was almost done. The only real problem left was that every time we changed devices, we had to write all the keys again — which, as someone who uses a keyboard daily, is the most irritating part. Our team researched this and found out our ESP32-S3 has something called EEPROM, which can store enough data for us to keep the pre-stored keys permanently. And that was the end of the software development journey.
 
-### Smol.exe file 
+## Smol.exe file 
 
 Here are the features that our Cyberdeck_os app has.
 
@@ -222,7 +222,7 @@ They just need to add a new one, set up what they need, and delete unnecessary l
 
 **This was the brief introduction to the software.**
 
-### How to use our keyboard and application?
+## How to use our keyboard and application?
 
 You just need to connect the keyboard to your laptop's USB port, then click on Connect UART.
 
@@ -232,7 +232,7 @@ You just need to connect the keyboard to your laptop's USB port, then click on C
 
 This automatically searches for the connected device and starts communicating with it. If the user needs any changes, they can make them and just click Compile and Flash to upload the changes to the keyboard. Once that's done, your keyboard is ready to use — it's that simple to set up.
 
-#### Then how to turn on the HUD overlay?
+## Then how to turn on the HUD overlay?
 
 Just click the Toggle HUD button, and the overlay turns on automatically. It's easily moveable across the window without any issues, and the brightness can be adjusted using the HUD transparency scroll bar.
 
@@ -243,7 +243,7 @@ Just click the Toggle HUD button, and the overlay turns on automatically. It's e
 
 This overlay won't distract you or get in the way of your work — but it also serves a bigger purpose by helping the user identify the keys they need. Once activated, click the same Toggle HUD button to turn it off. That's how easy it is to set up and use our software.
 
-### Final stage : Creating the Outer casing for the keyboard
+## Final stage : Creating the Outer casing for the keyboard
 
 You can't just carry the electronic components around without any rigid support. So I decided to design a case for it.
 Reverse-engineering the odd skeleton of the board into a proper outer casing turned out to be the biggest headache of this stage.
@@ -256,7 +256,7 @@ Reverse-engineering the odd skeleton of the board into a proper outer casing tur
 Even with my full attention, I forgot to account for clearance on the bottom surface. That print cost over ₹300, and I didn't want to risk another failed print, so I fixed the model myself using a cutter and soldering iron to build a proper case for the keyboard. I also underestimated the clearance needed for the thumb keys, so even the manual fix for the outer chassis wasn't perfect.
 Still, that's how I ended up completing the outer chassis.
 
-### How did it look after completing the project?
+## How did it look after completing the project?
 
 <img src="/assets/images/Final.png" alt="Final Design" width="400" height="400" >
 
@@ -267,7 +267,9 @@ This was the final prototype, and honestly one of the biggest engineering challe
 ### Welcome the Team
 
 **System design and Team Lead** - Myself - Pruthvik S
+
 **Procurement and Electrical Lead** - Pratik Jadhav 
+
 **Software and embedded lead** - Narendrababu N Bisleri
 
 I don't know how to thank them. But they put there maximum efforts into this by achieving, what I thought it was impossible to do. 
