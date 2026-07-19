@@ -75,8 +75,8 @@ I had no choice but to rip them out and swap them with fresh keys. Finally, afte
 
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
-    <img src="/assets/images/Perfboard Prototype Front.jpg" alt="Perfboard with Keys" style="width: 48%; height: 500px; object-fit: cover;">
-    <img src="/assets/images/Perfboard with diodes.jpg" alt="Perfboard with diodes" style="width: 48%; height: 500px; object-fit: cover;">
+    <img src="/assets/images/Perfboard Prototype Front.jpg" alt="Perfboard with Keys" style="width: 40%; height: 600px; object-fit: cover;">
+    <img src="/assets/images/Perfboard with diodes.jpg" alt="Perfboard with diodes" style="width: 40%; height: 600px; object-fit: cover;">
 </div>
 
 **SO the prototype was working fine and it was a success.**
