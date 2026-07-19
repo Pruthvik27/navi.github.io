@@ -50,6 +50,7 @@ It didn't even work properly. The first row of keys worked perfectly, but the mo
 
 **Without Diode** 
 *Leaving these out causes three major disasters in a grid keyboard:*
+
 1) Electrical "bleeding" - Without a one-way gate, electricity is free to run backward. When you press Button 1, instead of the signal going straight to the computer chip, the electricity flows backward into all the nearby switches and messes up the whole grid.
 
 2) Ghosting - Our brain chip (ESP32-S3) gets completely confused because electricity is leaking everywhere. The chip starts registering a "ghost" keypress—meaning it thinks you pressed a button that you *DIDN'T EVEN TOUCH*.
