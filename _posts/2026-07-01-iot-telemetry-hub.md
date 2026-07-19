@@ -170,33 +170,54 @@ So our job was almost done. The only real problem left was that every time we ch
 
 Here are the features that our Cyberdeck_os app has.
 
-[homepage image]
+<img src="/assets/images/Homepage.png" alt="Homepage" width="500" height="500" >
+
+
 This is how our application looks — a minimalist design with a dark background and a user-friendly UI.
 The main layer you're looking at is the data stored on the device, and the best part is —
 The user has complete freedom to set any combination of keys they want, including combos like Ctrl+C, Ctrl+V, and more.
 
-[key changing image]
+<img src="/assets/images/keys with ctrl and space.png" alt="Ctrl and Space operation" width="500" height="500" >
+
+Here I am showing you how ctrl and Space can be assigned to the keys.
+
+<img src="/assets/images/keys with ctrl and space.png" alt="Ctrl and Space operation" width="500" height="500" >
+
 Here I'm changing the letter A to some random letter Z.
 
-[key changed to z]
-Once the user clicks *apply config*, the keys change to whatever was set.
+<div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+    <img src="/assets/images/letter A.png" alt="Inital config" style="width: 48%; height: 250px; object-fit: cover;">
+    <img src="/assets/images/letter Z.png" alt="Modified config" style="width: 48%; height: 250px; object-fit: cover;">
+</div>
 
-[key changed matrix image]
+Once the user clicks *apply config*, the keys change to whatever was set.
 Similarly, the combination of keys shown changes when the thumb buttons are pressed.
 
-[layer 1]
+<img src="/assets/images/layer 1.png" alt="Layer - 1" width="400" height="400" >
+
+*Layer - 1 image*
+
 When typing on the first layer, the user doesn't need to press any button.
 To switch to the next layer, the user just presses the respective thumb button they want to work on. Once the second thumb button is pressed, it activates Layer 2 keys, and the keyboard works properly on Layer 2 without any errors.
 
-[layer 2] image
+<img src="/assets/images/layer 2.png" alt="Layer - 2 " width="400" height="400" >
+
+*Layer - 2 image*
 
 The same applies for all other layers — *Layer 3, Layer 4*.
 
 We also gave users the freedom to choose how the thumb keys function — whether they want to hold and click, which isn't very efficient, or use a proper toggle. So we gave them the option to choose their preferred mode: *hold mode* or *click mode*. All of my classmates other than our teammates preferred click mode, because in hold mode the thumb experiences more pressure and force than they're used to.
 
+<img src="/assets/images/toggle.png" alt="Toggle Option" width="400" height="400" >
+
+*Toggle Option image*
+
 Every layer of keys had its own independence in choosing its function, and we added the ability to switch entire key combinations depending on what the user is doing. For basic typing, they can stay in basic mode, and when they need to do video editing, audio editing, photo editing, DJing, presentations, or streaming, they can add a new workspace as needed.
 
-[workspace image]
+<img src="/assets/images/workscape.png" alt="Workspace" width="400" height="400" >
+
+*Workspace Image*
+
 They just need to add a new one, set up what they need, and delete unnecessary layers if created.
 
 **This was the brief introduction to the software.**
@@ -205,16 +226,20 @@ They just need to add a new one, set up what they need, and delete unnecessary l
 
 You just need to connect the keyboard to your laptop's USB port, then click on Connect UART.
 
-[image of connect uart]
+<img src="/assets/images/UART.png" alt="Connecting the device to the application" width="400" height="400" >
+
+*Connecting the device to your laptop*
+
 This automatically searches for the connected device and starts communicating with it. If the user needs any changes, they can make them and just click Compile and Flash to upload the changes to the keyboard. Once that's done, your keyboard is ready to use — it's that simple to set up.
 
 #### Then how to turn on the HUD overlay?
 
 Just click the Toggle HUD button, and the overlay turns on automatically. It's easily moveable across the window without any issues, and the brightness can be adjusted using the HUD transparency scroll bar.
 
-[HUD overlay image normal]
-
-[HUD overlay image at light display]
+<div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+    <img src="/assets/images/normal.png" alt="Normal HUD" style="width: 48%; height: 250px; object-fit: cover;">
+    <img src="/assets/images/light.png" alt="HUD after adjusted" style="width: 48%; height: 250px; object-fit: cover;">
+</div>
 
 This overlay won't distract you or get in the way of your work — but it also serves a bigger purpose by helping the user identify the keys they need. Once activated, click the same Toggle HUD button to turn it off. That's how easy it is to set up and use our software.
 
@@ -223,16 +248,32 @@ This overlay won't distract you or get in the way of your work — but it also s
 You can't just carry the electronic components around without any rigid support. So I decided to design a case for it.
 Reverse-engineering the odd skeleton of the board into a proper outer casing turned out to be the biggest headache of this stage.
 
-[image of the 3d model]
+<div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+    <img src="/assets/images/chassis 1.png" alt="Outer case bottom" style="width: 48%; height: 250px; object-fit: cover;">
+    <img src="/assets/images/chassis 2.png" alt="Outer case enclosure" style="width: 48%; height: 250px; object-fit: cover;">
+</div>
 
 Even with my full attention, I forgot to account for clearance on the bottom surface. That print cost over ₹300, and I didn't want to risk another failed print, so I fixed the model myself using a cutter and soldering iron to build a proper case for the keyboard. I also underestimated the clearance needed for the thumb keys, so even the manual fix for the outer chassis wasn't perfect.
 Still, that's how I ended up completing the outer chassis.
 
 ### How did it look after completing the project?
 
-[final Prototype]
+<img src="/assets/images/Final.png" alt="Final Design" width="400" height="400" >
 
-This was the final prototype, and honestly one of the biggest engineering challenges I've faced recently.y 
+This was the final prototype, and honestly one of the biggest engineering challenges I've faced recently. So to conclude on this project. I would like to tell.
+
+*Nothing is impossible, if you have a great team which are damn responsible*
+
+### Welcome the Team
+
+**System design and Team Lead** - Myself - Pruthvik S
+**Procurement and Electrical Lead** - Pratik Jadhav 
+**Software and embedded lead** - Narendrababu N Bisleri
+
+I don't know how to thank them. But they put there maximum efforts into this by achieving, what I thought it was impossible to do. 
+
+### Thanks for reading this! If you like it please share it among your mates 
+
 
 
 
