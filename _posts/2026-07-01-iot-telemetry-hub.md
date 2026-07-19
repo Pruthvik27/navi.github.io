@@ -20,7 +20,7 @@ title: "Project - SMOL"
 Initially, I thought it was a dream project and actually building it was something that only happened in my dreams. Then there was an announcement in the class. For our ARM Programming Course, we had to make a real, working engineering Project. 
 *A hardware one* 
 *Not the same basic school project... Battery sarrrr.... motor sarrrr... juii.. juiii*
-**It was quite different. **  
+**It was quite different.**  
 
 **Step 1**
 We had a genius shortcut idea. Instead of wiring 80 separate buttons (which would take too many wires), we arranged the keys in a *4-row by 4-column grid (a 4x4 matrix)* using only 8 wires. Then, we added *4 mode-switching buttons* (like the Shift key on your laptop) to change what those keys do, giving us 80 total combinations!
