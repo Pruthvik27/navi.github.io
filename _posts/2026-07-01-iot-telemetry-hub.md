@@ -57,4 +57,94 @@ It didn't even work properly. The first row of keys worked perfectly, but the mo
 
 3) Masking - Because the leaked electricity is flooding the system, it acts like blinding headlights. If you press multiple keys at the same time, the chip gets blinded and completely ignores your real, legitimate keypresses.
 
-*So using the Diodes, "A simple one-way gate" for each switch kept the signals separated, stopped the leaks, and gave my project a new life.
+*So using the Diodes, "A simple one-way gate" for each switch kept the signals separated, stopped the leaks, and gave my project a new life.*
+
+**So I completed the breadboard Prototype**
+
+![Breadboard Prototype](/assets/images/Breadboard_prototype.jpeg) {: width="500px"}
+
+
+## As everyone does, I moved on to making a perfboard Prototype 
+
+Once the temporary breadboard version worked, I immediately started building the permanent version on a circuit board with holes (a perfboard). I had done some soldering before, but... 
+*I never knew that wire insulation melts instantly if a hot soldering iron touches it for more than 10 seconds...*
+To make things worse, I was so clueless that I accidentally bought a cheap perfboard that only had copper rings on one side, leaving the other side completely blank, so the melted metal glue (solder) had nowhere to stick. 
+
+After soldering the keys in place, I decided to give it a test run. Everything seemed fine initially, but then I accidentally melted 2 of the keys while soldering the connecting wires. Because of that mistake, I lost the solid mounting points needed to hold my custom buttons in place. 
+I had no choice but to rip them out and swap them with fresh keys. Finally, after *breathing in way too much toxic soldering smoke*, the perfboard prototype was successfully finished!
+
+
+[img:img_1783856498923]    
+     
+[img:img_1783856510924]
+
+**SO the prototype was working fine and it was a success.**
+*But you can't type comfortably with sharp, exposed wire needles hurting your fingers.*
+
+## So Hardware designing time
+It was time to design custom plastic keycaps from scratch using a 3D modeling software called Fusion360. 
+*Why didn't I use Solidworks instead?*
+*Simply because I wasn't fast or fluent enough with it yet to design keys on a tight deadline.*
+
+So I jumped right into designing my very first keycap concept. 
+Before even sending it to the printer, I had mentally resigned myself to burning through our team's tiny project budget by designing a complex mechanical part—completely ignoring the technical limitations of the 3D printers available in our college lab.
+*Seriously, I had absolutely zero knowledge about 3D printing tolerances (the tiny gaps needed for parts to fit together) or the technical settings they used.*
+
+Finally, I finished my first keycap design.
+
+[img:img_1783857565280]
+
+My teammate worked incredibly hard navigating the chaotic paperwork to get the parts printed on the newly set up lab printers. 
+
+After waiting in anticipation for a whole week... 
+
+**I got this**
+
+[img:img_1783857745690]
+
+I already know exactly what you are *thinking right now* after looking at that disaster.
+
+### So I decided not to give up and decided to redesign with the proper precautions and the same procedure again.
+
+
+[img:img_1783857931767]
+
+  
+Once again, my poor teammate had to run around campus to secure approvals, process payments, and jump through all the administrative hoops required just to use the 3D printer. 
+
+Then, this is what came out... 
+*AGAINNNNNNNNN....*
+
+
+[img:img_1783858025189]
+
+I know what you are thinking again. It was almost perfect, but an accidental dip on the top surface ruined the entire aesthetic. Even worse, the keycap was way too short, making it wobble uncontrollably with zero stability while trying to type.
+
+### So instead of Again burning my team budget. 
+**I went to design the new keys**
+
+I was on high alert during this third design phase because I absolutely refused to waste my teammates' hard-earned money a third time. For once in my lifetime, I stopped taking things for granted and got completely serious about the engineering details.
+
+I redesigned the prototype from scratch. It looked something like this: 
+
+[img:img_1783858332985]
+
+With the design finalized, I crossed my fingers tightly, double-checking everything to see if I had missed any hidden flaws. After waiting another long week, I finally got the final print:
+
+[img:img_1783858482064]
+
+The result was incredibly satisfying! It perfectly fixed all of my previous design mistakes. Just like that, the longest and most frustrating phase of the project, which dragged on for a whole month, finally came to an end.
+
+Then,
+Two major milestones were complete, but we were still completely stuck staring at each other, thinking: 
+*"Should we add a TFT display screen or not?"*
+**OR**
+*"If I add the TFT display, the whole system crashes and stops working entirely."*
+
+After hours of intense brainstorming, I glanced at my laptop screen and noticed how I track my CPU and graphics card temperatures. It sits quietly on the screen without blocking my view, yet gives me all the vital information I need instantly.
+
+That sparked our final breakthrough idea: we would develop a custom 
+*ON-SCREEN SOFTWARE OVERLAY*
+Since I couldn't physically fit 80 different labels onto a tiny pocket-sized keyboard, a smart digital overlay was the perfect solution. It would pop up on the user's computer screen to show them exactly which typing "layer" they were using and what characters they were pressing in real-time.
+
+With the plan set, I immediately contacted my Software Lead—a guy who possesses world-class expertise in *VIBE CODING* (writing code purely by gut feeling and chaotic energy). And just like that, **Stage - 3 officially started right here.**
