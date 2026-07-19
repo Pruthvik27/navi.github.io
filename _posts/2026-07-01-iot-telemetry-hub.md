@@ -102,7 +102,7 @@ After waiting in anticipation for a whole week...
 
 **I got this**
 
-[img:img_1783857745690]
+<img src="/assets/images/key Iteration - 1.png" alt="My first keycap Result">
 
 I already know exactly what you are *thinking right now* after looking at that disaster.
 
