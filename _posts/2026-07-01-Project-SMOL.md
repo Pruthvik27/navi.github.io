@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Project - SMOL"
+title: "Project SMOL: A keyboard"
+permalink: /project-smol/
 ---
 
 # Project - SMOL : A keyboard 
