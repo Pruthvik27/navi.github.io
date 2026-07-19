@@ -22,7 +22,7 @@ Initially, I thought it was a dream project and actually building it was somethi
 *Not the same basic school project... Battery sarrrr.... motor sarrrr... juii.. juiii*
 **It was quite different.**  
 
-**Step 1**
+### **Step 1**
 We had a genius shortcut idea. Instead of wiring 80 separate buttons (which would take too many wires), we arranged the keys in a *4-row by 4-column grid (a 4x4 matrix)* using only 8 wires. Then, we added *4 mode-switching buttons* (like the Shift key on your laptop) to change what those keys do, giving us 80 total combinations!
 
 **(4x4)x(4+1) = 80.**
