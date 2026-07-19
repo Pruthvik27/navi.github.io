@@ -80,6 +80,7 @@ I had no choice but to rip them out and swap them with fresh keys. Finally, afte
 </div>
 
 **SO the prototype was working fine and it was a success.**
+
 *But you can't type comfortably with sharp, exposed wire needles hurting your fingers.*
 
 ## So Hardware designing time
@@ -93,7 +94,7 @@ Before even sending it to the printer, I had mentally resigned myself to burning
 
 Finally, I finished my first keycap design.
 
-[img:img_1783857565280]
+![My first keycap design](/assets/images/key model- 1.png)
 
 My teammate worked incredibly hard navigating the chaotic paperwork to get the parts printed on the newly set up lab printers. 
 
