@@ -61,7 +61,7 @@ It didn't even work properly. The first row of keys worked perfectly, but the mo
 
 **So I completed the breadboard Prototype**
 
-![Breadboard Prototype](/assets/images/Breadboard_prototype.jpeg) {: width="500px"}
+![Breadboard Prototype](/assets/images/Breadboard_prototype.jpeg) {: width="300px"}
 
 
 ## As everyone does, I moved on to making a perfboard Prototype 
