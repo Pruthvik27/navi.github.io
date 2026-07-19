@@ -102,14 +102,14 @@ After waiting in anticipation for a whole week...
 
 **I got this**
 
-<img src="/assets/images/key Iteration - 1.png" alt="My first keycap Result">
+<img src="/assets/images/key Iteration - 1.jpeg" alt="My first keycap Result">
 
 I already know exactly what you are *thinking right now* after looking at that disaster.
 
 ### So I decided not to give up and decided to redesign with the proper precautions and the same procedure again.
 
 
-[img:img_1783857931767]
+<img src="/assets/images/key model - 2.png" alt="My second keycap design">
 
   
 Once again, my poor teammate had to run around campus to secure approvals, process payments, and jump through all the administrative hoops required just to use the 3D printer. 
@@ -118,7 +118,7 @@ Then, this is what came out...
 *AGAINNNNNNNNN....*
 
 
-[img:img_1783858025189]
+<img src="/assets/images/key iteration - 2.jpeg" alt="My second keycap Result">
 
 I know what you are thinking again. It was almost perfect, but an accidental dip on the top surface ruined the entire aesthetic. Even worse, the keycap was way too short, making it wobble uncontrollably with zero stability while trying to type.
 
@@ -129,11 +129,11 @@ I was on high alert during this third design phase because I absolutely refused 
 
 I redesigned the prototype from scratch. It looked something like this: 
 
-[img:img_1783858332985]
+<img src="/assets/images/key model - 3.png" alt="My third keycap design">
 
 With the design finalized, I crossed my fingers tightly, double-checking everything to see if I had missed any hidden flaws. After waiting another long week, I finally got the final print:
 
-[img:img_1783858482064]
+<img src="/assets/images/key iteration - 2.jpeg" alt="My third keycap Result">
 
 The result was incredibly satisfying! It perfectly fixed all of my previous design mistakes. Just like that, the longest and most frustrating phase of the project, which dragged on for a whole month, finally came to an end.
 
