@@ -74,9 +74,9 @@ After soldering the keys in place, I decided to give it a test run. Everything s
 I had no choice but to rip them out and swap them with fresh keys. Finally, after *breathing in way too much toxic soldering smoke*, the perfboard prototype was successfully finished!
 
 
-<div style="display: flex; gap: 500px; justify-content: center; align-items: center;">
-    <img src="/assets/images/Perfboard Prototype Front.jpg" alt="Perfboard with Keys" style="width: 40%; height: 600px; object-fit: cover;">
-    <img src="/assets/images/Perfboard with diodes.jpg" alt="Perfboard with diodes" style="width: 40%; height: 600px; object-fit: cover;">
+<div style="display: flex; gap: 30px; justify-content: center; align-items: center;">
+    <img src="/assets/images/Perfboard Prototype Front.jpg" alt="Perfboard with Keys" style="width: 50%; height: 600px; object-fit: cover;">
+    <img src="/assets/images/Perfboard with diodes.jpg" alt="Perfboard with diodes" style="width: 50%; height: 600px; object-fit: cover;">
 </div>
 
 **SO the prototype was working fine and it was a success.**
