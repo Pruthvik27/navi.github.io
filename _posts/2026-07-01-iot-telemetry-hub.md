@@ -94,7 +94,7 @@ Before even sending it to the printer, I had mentally resigned myself to burning
 
 Finally, I finished my first keycap design.
 
-![My first keycap design](/assets/images/key model- 1.png)
+<img src="/assets/images/key model- 1.png" alt="My first keycap design">
 
 My teammate worked incredibly hard navigating the chaotic paperwork to get the parts printed on the newly set up lab printers. 
 
