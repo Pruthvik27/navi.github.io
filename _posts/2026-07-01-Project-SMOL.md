@@ -4,7 +4,6 @@ title: "Project - SMOL"
 ---
 
 # Project - SMOL : A keyboard 
-*Date: July 19, 2026*
 
 # While you are doing "Click, click" on your keyboard. Have you ever felt?
 **"OH SHIT, IT'S THE SAME DESIGN FROM 1947?"**
