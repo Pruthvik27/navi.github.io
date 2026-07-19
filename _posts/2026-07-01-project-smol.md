@@ -275,7 +275,7 @@ I don't know how to thank them. But they put there maximum efforts into this by 
 ### Thanks for reading this! If you like it please share it among your mates 
 
 
-You can download the complete files and information here: [📁 See complete information on Google Drive]((https://drive.google.com/drive/folders/1SsLlahhHt4yO5CBT87uLKQ1MaEx5zKag?usp=sharing))
+You can download the complete files and information here: [📁 See complete information on Google Drive](https://drive.google.com/drive/folders/1SsLlahhHt4yO5CBT87uLKQ1MaEx5zKag?usp=sharing)
 
 
 
