@@ -5,7 +5,7 @@ permalink: /Motor-Driver-with-PID/
 ---
 
 # Motor Driver with PID and real telementary 
-# *I have started to learn about how these Motor drivers work and design my own motor driver and use PID to maintain the constant output whatever the input is..!!*
+*I have started to learn about how these Motor drivers work and design my own motor driver and use PID to maintain the constant output whatever the input is..!!*
 
 ## Phase - 1 : Concepts need to be digested by me for making this project.
   1) *Power Mosfets and Gate Driving - Vgs, Rds, Qg.*
